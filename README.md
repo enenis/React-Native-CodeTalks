@@ -3,7 +3,7 @@
 <hr>
 <b>Detailed Photos;</b><br>
 <br><b>Login Screen:<br></b>
-<img src="" width="350" height="800" />
+<img src="https://user-images.githubusercontent.com/99321522/224668509-2133e7b3-eb02-43e2-b9f6-2d00a18b54f3.png" width="350" height="800" />
 <br>
 <hr>
 <br><b>Register Screen:<br></b>
@@ -22,3 +22,4 @@
 ~Enis Kayra Yavuz
 enenissoftware
 <hr>
+![Screenshot_1678700063]()
