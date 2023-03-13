@@ -24,8 +24,3 @@
 ~Enis Kayra Yavuz
 enenissoftware
 <hr>
-![Screenshot_1678700063]()
-![Screenshot_1678700067]()
-![Screenshot_1678700950]()
-![Screenshot_1678700978]()
-![Screenshot_1678701101]()
