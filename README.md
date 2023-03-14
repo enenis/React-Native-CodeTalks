@@ -20,7 +20,7 @@
 <b>Message screen:<br></b>
 <img src="https://user-images.githubusercontent.com/99321522/224668921-78038d97-87b6-4f79-b89e-92a3be946d07.png" width="370" height="800" />
 <br>
-<small>Thank you so much for reading and reviewing this far.</small><br>
+<small>Thank you so much for reading and reviewing this far...</small><br>
 ~Enis Kayra Yavuz
 enenissoftware
 <hr>
